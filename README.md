@@ -1,0 +1,2 @@
+# EndeavourOS
+https://endeavouros.com
